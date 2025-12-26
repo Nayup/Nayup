@@ -4,15 +4,6 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,java,cs,dotnet,linux,docker,mysql,mongodb,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java,cs,dotnet,linux,docker,mysql,mongodb,py,re,git&theme=dark" />
 
 </div>
-
----
-
-### 🧠 About Me
-```text
-- IT Student
-- Focus: Backend, Security, Reverse Engineering (RE)
-- Interested in low-level, system, exploit mindset
-- Learning by breaking things, not tutorials

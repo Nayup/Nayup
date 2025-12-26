@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nayup</h1>
-<h3 align="center">Backend • Security • Reverse Engineering</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,cs,dotnet,linux,docker,mysql,mongodb,git" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nayup;Backend+%7C+Security+%7C+Reverse+Engineering;Learning+RE+from+Zero" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayup&show_icons=true&theme=tokyonight" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayup&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,java,cs,dotnet,linux,docker,mysql,mongodb,git&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayup&theme=react-dark" />
-</p>
+</div>
+
+---
+
+### 🧠 About Me
+```text
+- IT Student
+- Focus: Backend, Security, Reverse Engineering (RE)
+- Interested in low-level, system, exploit mindset
+- Learning by breaking things, not tutorials

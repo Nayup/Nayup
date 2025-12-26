@@ -4,6 +4,6 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,java,cs,dotnet,js,linux,docker,bash,postgresql,mysql,redis,py,mongodb,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux" />
 
 </div>

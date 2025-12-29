@@ -4,6 +4,6 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=kali" />
 
 </div>
